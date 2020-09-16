@@ -1,0 +1,24 @@
+{
+  "name": "hash_generator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galyonj/npm-practice.git"
+  },
+  "author": "John Galyon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/galyonj/npm-practice/issues"
+  },
+  "homepage": "https://github.com/galyonj/npm-practice#readme"
+}
